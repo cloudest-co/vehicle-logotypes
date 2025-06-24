@@ -1674,6 +1674,18 @@
       }
     ]
   },
+  "cupra": {
+    "name": "Cupra",
+    "code": "CUPRA",
+    "logotype": {
+      "uri": "https:\/\/raw.githubusercontent.com\/cloudest-co\/vehicle-logotypes\/refs\/heads\/master\/logos\/cupra-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 9822
+    }
+  },
   "dacia": {
     "name": "Dacia",
     "code": "DACIA",
